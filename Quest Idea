@@ -1,0 +1,8 @@
+class Quest{
+id;
+name;
+description;
+quest[] quest array;
+trigger object
+
+}
